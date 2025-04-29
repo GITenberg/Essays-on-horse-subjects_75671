@@ -1,5 +1,8 @@
 _repo: Essays-on-horse-subjects_75671
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75671-h/images/cover.jpg
 creator:
   author:
     agent_name: Grenside, F. C. (Frederick Clement)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58033
 description: 'Reading ease score: 60.2 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75671#Essays-on-horse-subjects
 gutenberg_bookshelf: 'Browsing: Nature/Gardening/Animals'
 gutenberg_issued: '2025-03-20'
 gutenberg_type: Text
